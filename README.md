@@ -17,6 +17,7 @@ A tool designed for efficiently managing browser tabs and instantly saving your 
 + Contact the Developer: utabmanager@outlook.com
 
 <br/>
+
 ## uTabManager 👋👋👋
 一款专为了高效管理浏览器标签和即时保存当下工作而设计的工具。
 
